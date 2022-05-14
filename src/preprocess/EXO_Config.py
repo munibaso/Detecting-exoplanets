@@ -1,14 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-@author:        Juan Ramón Díaz Santos
-@project:       Exoplanet
-@datasource:    Kepler Telescope
-                  https://exoplanetarchive.ipac.caltech.edu/docs/KeplerMission.html
-    
-    Config File for Exoplanet Project
-
-"""
-
 import os
 import time
 

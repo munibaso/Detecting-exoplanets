@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue May 10 12:46:23 2022
-
-@author: Juan
-"""
-
 import lightkurve as lk
 import matplotlib.pyplot as plt
 import pandas as pd
