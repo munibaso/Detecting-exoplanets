@@ -11,7 +11,7 @@ import pandas as pd
 import time
 import numpy as np
 
-from EXO_Config import Config
+from src.preprocess.EXO_Config import Config
 
 class Generator:
     
