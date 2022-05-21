@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import lightkurve as lk
+import lightcurve as lk
 import matplotlib.pyplot as plt
 import pandas as pd
 import time
